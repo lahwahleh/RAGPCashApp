@@ -1,0 +1,7 @@
+{
+  "name": "ragpcashapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
